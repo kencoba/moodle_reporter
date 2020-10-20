@@ -6,9 +6,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["kencoba"]
   spec.email         = ["ken.coba@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "Report learning progress on Moodle."
+  spec.description   = "Report learning progress on Moodle."
+  spec.homepage      = "https://github.com/kencoba/moodle_reporter.git"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
